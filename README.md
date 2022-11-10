@@ -2,7 +2,7 @@
 ---
 ## Menunjukan **n** bilangan acak yang lebih kecil dari 0.5
 ### langkah-langkah
-![img 1](https://github.com/kholidwahyudi/labpy03/commit/0857522412dbc48667a51a720eb928c50f3454d3#diff-c3d4b3448bfd7b0fd6ac69d5d678eb386b6a29fe2ec336dddf154e152e32b047)
+![img 1](labpy03/latihan1.py.png)
 
 1. ketik program 
 *jumlah=int(input("Masukan jumlah n"))*
@@ -10,7 +10,7 @@
 1. Program ketik untuk i in range (jumlah):
 1. program ketik print("Data ke-", 1+i"="(random.uniform(0.1,0.5)))
 ### Hasil
-![img 2](https://github.com/kholidwahyudi/labpy03/commit/0857522412dbc48667a51a720eb928c50f3454d3#diff-64e6cd85e237370bb71eef3667a38b2186519800668857c1af1a9fad95869e77)
+![img 2](labpy03/1.png)
 
 1. masukkan nilai (n) : 5
 1. program akan mencetak data ke 1 sampai 5 dengan nilai kurang dari 0.5
@@ -23,7 +23,7 @@
 ---
 ## Angka terbesar dari *n* buah data yang diinputkan dan masukkan angka 0 untuk berhenti.
 ### langkah-langkah
-![img 3](https://github.com/kholidwahyudi/labpy03/commit/0857522412dbc48667a51a720eb928c50f3454d3#diff-6f4093c2a2a1b2cadd541318c2c5910938363d8af65e54409132884728a9ef66)
+![img 3](labpy03/latihan2.py.png)
 
 1. Ketik Program print ('Menampilkan Bilangan Terbesar Dari N Buah Data Yang Diinputkan')
 1. Ketik Program max= 0
@@ -35,7 +35,7 @@
 1. Ketik Program break
 1. Ketik Program print("Bilangan Tebesar Adalah :", max
 ### Hasil
-![img 4](https://github.com/kholidwahyudi/labpy03/commit/0857522412dbc48667a51a720eb928c50f3454d3#diff-125e172129087c59a7be86f37aade35f3cd63aab09b8675a0538be72c863d28b)
+![img 4](labpy03/2.png)
 
 ## penjelasan 
 1. print ('Menampilkan Bilangan Terbesar Dari N Buah Data Yang Diinputkan') Untuk menampilkan kalimat Menampilkan Bilangan Terbesar Dari N Buah Data Yang Diinputkan
@@ -51,7 +51,7 @@
 Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya.
 
 ### langkah-langkah
-![img 5](https://github.com/kholidwahyudi/labpy03/commit/0857522412dbc48667a51a720eb928c50f3454d3#diff-3adf35e0496ccb579f115a6122408daa52f6f5ea5bd5767dbe9db7fffdbb21cd)
+![img 5](labpy03/program1.py.png)
 
 1. Ketikan Program print ('Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan')
 1. Ketik Program x=100000000
@@ -63,7 +63,7 @@ Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal a
 1. Ketik Program Z= (a+b+c+d+e+f+g+h)
 1. Ketik Program Print (“jumlah laba selama 8 bulan adalah:”)
 ### Hasil
-![img 6](https://github.com/kholidwahyudi/labpy03/commit/0857522412dbc48667a51a720eb928c50f3454d3#diff-24ed96fabfd19e186267d8d2b63740c9509afeb69fb4296183855f26beef764b)
+![img 6](labpy03/3.png)
 
 ### penjelasan 
 1. print ('Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan') Untuk Menampilkan kalimat Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
